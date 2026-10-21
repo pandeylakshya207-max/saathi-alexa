@@ -1,0 +1,4 @@
+mcp[cli]>=2.3,<3
+uvicorn>=0.30
+boto3>=1.40
+python-dotenv>=1.0

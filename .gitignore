@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+saathi.db
+.env
+fix_indent.py
+test_client.py
